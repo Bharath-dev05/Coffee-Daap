@@ -1,2 +1,2 @@
 # Coffee-Daap
-A decentralized appllication to buy coffee using crypto
+A decentralized application to buy coffee using crypto
