@@ -10,4 +10,4 @@ cache
 artifacts
 hardhat.config.js
 
-.env
+.env*
